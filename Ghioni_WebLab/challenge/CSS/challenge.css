@@ -1,0 +1,63 @@
+html {
+    
+    
+    background-image: url(../Images/pexels-photo-1020315.jpg)
+}
+
+body {
+    
+    width:  900px;
+    padding: 25px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    
+    text-align: center;
+    font-family: Courtier, Helvetica, sans-serif;
+}
+
+body {
+    
+    border: 4px solid #000;
+    background-color: #C1737C;
+    
+}
+
+a {
+    
+    font-size: 17pt;
+    color: #694573;
+    text-decoration: underline;
+}
+
+a{
+    
+    color: #f78;
+    
+}
+
+h1 {
+    
+    font-size: 45pt;
+    color: #000;
+    border-top: 2x dotted #684577;
+    text-transform: uppercase;
+    
+}
+
+p {
+    
+    font-size: 8pt;
+    line-height: 14pt;
+    
+}
+
+img {
+    
+    border: medium solid #666;
+    box-shadow: 5px 5px 5px rgba(0,0,0,.3);
+    
+}
